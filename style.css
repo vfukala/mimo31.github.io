@@ -1,4 +1,4 @@
-p, h2, h3, li {
+p, h2, h3, h4, li {
 	font-family: sans-serif
 }
 
@@ -16,4 +16,16 @@ p, h2, h3, li {
 
 #email {
 	margin-top: 0;
+}
+
+.imbot {
+	margin-bottom: 0;
+}
+
+.imtop {
+	margin-top: 0;
+}
+
+.projname {
+	font-weight: bold;
 }
