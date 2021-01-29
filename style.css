@@ -1,0 +1,19 @@
+p, h2, h3, li {
+	font-family: sans-serif
+}
+
+.code {
+	font-family: monospace;
+}
+
+.cen_text {
+	text-align: center;
+}
+
+#title {
+	margin-bottom: 0;
+}
+
+#email {
+	margin-top: 0;
+}
