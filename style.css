@@ -14,6 +14,11 @@ p, h2, h3, h4, li {
 	margin-bottom: 0;
 }
 
+#title_content {
+	text-decoration: none;
+	color: black;
+}
+
 #email {
 	margin-top: 0;
 }
@@ -28,4 +33,16 @@ p, h2, h3, h4, li {
 
 .projname {
 	font-weight: bold;
+}
+
+.sec_start {
+	margin-top: 50px;
+}
+
+.pdf_frame {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
